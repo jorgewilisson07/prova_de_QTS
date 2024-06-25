@@ -1,0 +1,21 @@
+/* Estilo para o body, definindo cor de fundo verde */
+body {
+    background-color: #2ecc71; /* Verde */
+    margin: 0; /* Remove margens padrão do body */
+    display: flex; /* Usa flexbox para centralizar o conteúdo */
+    justify-content: center; /* Centraliza no eixo horizontal */
+    align-items: center; /* Centraliza no eixo vertical */
+    height: 100vh; /* Ocupa toda a altura da viewport */
+}
+
+/* Estilo para a área de login */
+.login-container {
+    background-color: #ffffff; /* Fundo branco */
+    padding: 20px; /* Espaçamento interno */
+    border-radius: 8px; /* Borda arredondada */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    width: 300px; /* Largura do container */
+    text-align: center; /* Centraliza o conteúdo dentro do container */
+}
+
+    
